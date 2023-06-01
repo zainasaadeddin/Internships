@@ -19,7 +19,11 @@ I will name this internship strategy theme ->
 
 ### 5. Fellowships 
 
+### 6. Bootcamps 
+
 ### 6. Ideas 
+
+
 
 
 Extra - some resources may inspire you!! 🤗 ❤️
