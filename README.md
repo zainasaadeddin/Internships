@@ -7,3 +7,19 @@ based on my experience when mentoring Palestinian students. Following are some s
 
 I will name this internship strategy theme -> 
 (*KNOCK ALL THE DOORS*)
+
+
+### 1. Local 
+
+### 2. Remote 
+
+### 3. Abroad 
+
+### 4. Hyprid 
+
+### 5. Fellowships 
+
+### 6. Ideas 
+
+
+Extra - some resources may inspire you!! 🤗 ❤️
