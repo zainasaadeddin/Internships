@@ -1,2 +1,2 @@
 # Internships
-Summer 2023 Tech Internships for Palestinian Students 
+## Summer 2023 Tech Internships for Palestinian Students 
