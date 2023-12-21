@@ -5,6 +5,8 @@ When I was a bachelor's student (2009-2014). I realized how hard to get tech int
 
 based on my experience when mentoring Palestinian students. Following are some suggestions/strategies/open opportunities that students can consider to get a tech internship 🤗 ❤️
 
+⚠️ Please note that this repository is exclusively for internships/fellowships fit the Palestinians students, or Remote Internships Positions 🌎
+
 I will name this internship strategy theme -> 
 (*KNOCK ALL THE DOORS*) you will find below:
 
