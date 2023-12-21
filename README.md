@@ -8,7 +8,7 @@ based on my experience when mentoring Palestinian students. Following are some s
 ⚠️ Please note that this repository is exclusively for internships/fellowships fit the Palestinians students, or Remote Internships Positions 🌎
 
 I will name this internship strategy theme -> 
-(*KNOCK ALL THE DOORS*) you will find below:
+(*KNOCK ALL THE DOORS*) you will find in the table below:
 
 
 ### 1. Local internships
@@ -23,4 +23,4 @@ I will name this internship strategy theme ->
 
 
 
-Extra - some resources may inspire you!! 🤗 ❤️
+### Extra - some resources may inspire you!! 🤗 ❤️
